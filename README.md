@@ -17,6 +17,11 @@ Fitness Drive is your ultimate fitness companion, offering exercise guidelines, 
 Users sign up with email, enter height, weight, birth year & gender for tailored workouts & calorie goals. 
 Track exercises daily with a pie chart & history!view!
 
+## Video demo
+YouTube Link:  (https://youtu.be/5vH44SdHXyc)
+
+## Snaps of Website
+
 
 ## Requirements
 
