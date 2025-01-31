@@ -20,8 +20,8 @@ Track exercises daily with a pie chart & history!view!
 ## Video demo
 YouTube Link:  (https://youtu.be/5vH44SdHXyc)
 
-## Snaps of Website
-
+## Website Link
+https://activeedgefitness.fit
 
 ## Requirements
 
